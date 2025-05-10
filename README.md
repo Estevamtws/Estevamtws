@@ -30,8 +30,8 @@ Alguns dos projetos que estou desenvolvendo ou planejando incluir aqui no reposi
 - 📟 **Calculadora Científica em C**  
   Uma calculadora com funções matemáticas como fatorial, raiz quadrada, conversões de base e mais.
 
-- 🌐 **Site Pessoal com HTML/CSS** *(em construção)*  
-  Um portfólio para mostrar meus projetos e evolução na área de desenvolvimento web.
+- 🌐 *  
+  Sistema de atendimento automatico com C# e python.
 
 - 🔐 **Pequenos scripts para segurança e automação** *(em breve)*  
   Scripts para praticar automação, criptografia e conceitos de segurança da informação.
