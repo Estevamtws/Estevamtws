@@ -1,61 +1,66 @@
 # 👋 Olá! Eu sou o Pedro Estevam
 
 🎓 Estudante de Ciência da Computação no CEUB  
-💻 Entusiasta em programação e tecnologia  
-🏋️‍♂️ Apaixonado por desafios e evolução constante
+💻 Foco em Desenvolvimento **Back-end**  
+🚀 Em constante evolução
 
 ---
 
-## 🚀 Sobre mim
+## 🧾 Sobre mim
 
-Tenho 18 anos, sou proativo, comunicativo e analítico. Atualmente estou estudando Ciência da Computação, com foco em aprender e evoluir nas áreas de desenvolvimento BackEnd.
+Tenho 18 anos e sou estudante de Ciência da Computação, com foco em desenvolvimento **Back-end**. Sou proativo, comunicativo e analítico, sempre buscando evoluir minhas habilidades técnicas.
 
-Comecei minha jornada pela programação com a linguagem C, desenvolvendo pequenos projetos como calculadoras científicas e aprendendo os fundamentos da lógica de programação. Hoje, continuo expandindo meus conhecimentos em linguagens como C++, Python, C#, Java e outras tecnologias do universo BackEnd.
+Iniciei na programação com a linguagem **C**, criando projetos como calculadoras científicas. Atualmente estudo **C#**, **.NET** e **SQL**, com foco na construção de sistemas bem estruturados e escaláveis.
+
+Tenho interesse em APIs, arquitetura de software e boas práticas de desenvolvimento.
 
 ---
 
-## 🛠️ Tecnologias que estou aprendendo
+## 🛠️ Tecnologias
 
-- 💻 C, C++, C#
-- 🐍 Python
-- ☕ Java (em breve)
-- 🛡️ Conceitos iniciais de IA
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=estevamtws&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estevamtws&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📚 Projetos
 
-Alguns dos projetos que estou desenvolvendo ou planejando incluir aqui no repositório:
-
 - 📟 **Calculadora Científica em C**  
-  Uma calculadora com funções matemáticas como fatorial, raiz quadrada, conversões de base e mais.
+  Projeto com funções matemáticas e conversões de base.
 
-- 🌐 *  
-  Sistema de atendimento automatico com C# e python.
+- 🤖 **Sistema de atendimento automático**  
+  Projeto em desenvolvimento usando C# e Python.
 
-- 🔐 **Pequenos scripts para segurança e automação** *(em breve)*  
-  Scripts para praticar automação, criptografia e conceitos de segurança da informação.
+- 🔐 **Scripts de automação e segurança** *(em breve)*
 
 ---
 
 ## 🎯 Objetivos
 
-- Aprofundar conhecimentos em desenvolvimento Full Stack
-- Trabalhar com projetos de segurança da informação
-- Colaborar com outros desenvolvedores em projetos open source
-- Estagiar e atuar na área de TI, contribuindo com soluções inovadoras
+- Me especializar em Back-end
+- Evoluir em C#, .NET e SQL
+- Construir APIs REST
+- Contribuir com projetos open source
+- Atuar profissionalmente na área de TI
 
 ---
 
 ## 📫 Contato
 
-Quer conversar, colaborar ou trocar ideias?
-
-- Email: *[pedroestevam.dev@gmail.com]**
-- LinkedIn: **[https://www.linkedin.com/in/pedro-henrique-almeida-estevam-039364326/]**
-- GitHub: **[github.com/estevamtws]**
+- 📧 Email: **pedroestevam.dev@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/pedro-henrique-almeida-estevam-039364326/
+- 🧑‍💻 GitHub: https://github.com/estevamtws
 
 ---
 
-⭐ Obrigado por visitar meu repositório! Fique à vontade para acompanhar meus projetos e sugerir melhorias!
-
+⭐ Obrigado por visitar meu perfil!
