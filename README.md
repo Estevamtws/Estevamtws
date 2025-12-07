@@ -25,26 +25,6 @@ Tenho interesse em APIs, arquitetura de software e boas práticas de desenvolvim
 
 ---
 
-## 📊 GitHub Stats
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=estevamtws&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estevamtws&layout=compact&theme=tokyonight)
-
----
-
-## 📚 Projetos
-
-- 📟 **Calculadora Científica em C**  
-  Projeto com funções matemáticas e conversões de base.
-
-- 🤖 **Sistema de atendimento automático**  
-  Projeto em desenvolvimento usando C# e Python.
-
-- 🔐 **Scripts de automação e segurança** *(em breve)*
-
----
-
 ## 🎯 Objetivos
 
 - Me especializar em Back-end
