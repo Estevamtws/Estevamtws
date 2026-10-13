@@ -16,7 +16,7 @@ Tenho interesse em arquitetura de software e boas práticas de desenvolvimento.
 
 ## 🛠️ Tecnologias
 
-![java](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=java&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
