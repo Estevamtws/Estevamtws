@@ -8,37 +8,33 @@
 
 ## 🧾 Sobre mim
 
-Tenho 18 anos e sou estudante de Ciência da Computação, com foco em desenvolvimento **Back-end**. Sou proativo, comunicativo e analítico, sempre buscando evoluir minhas habilidades técnicas.
+Tenho 20 anos e sou estudante de Ciência da Computação, com foco em desenvolvimento **Back-end**. Sou proativo, comunicativo e analítico, sempre buscando evoluir minhas habilidades técnicas.
 
-Iniciei na programação com a linguagem **C**, criando projetos como calculadoras científicas. Atualmente estudo **C#**, **.NET** e **SQL**, com foco na construção de sistemas bem estruturados e escaláveis.
-
-Tenho interesse em APIs, arquitetura de software e boas práticas de desenvolvimento.
+Tenho interesse em arquitetura de software e boas práticas de desenvolvimento.
 
 ---
 
 ## 🛠️ Tecnologias
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![java](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=java&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ---
 
 ## 🎯 Objetivos
 
-- Me especializar em Back-end
-- Evoluir em C#, .NET e SQL
-- Construir APIs REST
+- Ser desenvolvedor ou engenheiro de software
+- Trabalhar em empresas gigantes nacionais ou internacionais
 - Contribuir com projetos open source
-- Atuar profissionalmente na área de TI
 
 ---
 
 ## 📫 Contato
 
 - 📧 Email: **pedroestevam.dev@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/pedro-henrique-almeida-estevam-039364326/
+- 💼 LinkedIn: https://www.linkedin.com/in/pedro-henrique-estevam
 - 🧑‍💻 GitHub: https://github.com/estevamtws
 
 ---
