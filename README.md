@@ -10,7 +10,7 @@
 
 Tenho 20 anos e sou estudante de Ciência da Computação, com foco em desenvolvimento **Back-end**. Sou proativo, comunicativo e analítico, sempre buscando evoluir minhas habilidades técnicas.
 
-Tenho interesse em arquitetura de software e boas práticas de desenvolvimento.
+Tenho interesse em Desenvolvimento e engenharia de software e boas práticas de desenvolvimento.
 
 ---
 
